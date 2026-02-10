@@ -67,3 +67,7 @@ The analysis is based on the following tables:
 - SQL
 - Python
 - GitHub
+
+---
+
+⭐ *If you found this project insightful, feel free to star the repository!*
