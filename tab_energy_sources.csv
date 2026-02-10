@@ -1,0 +1,361 @@
+country_id,year,energy_type,share_percentage
+1,2015,Coal,38.56
+1,2015,Oil,5.2
+1,2015,Natural Gas,26.95
+1,2015,Renewables,29.29
+1,2016,Coal,7.66
+1,2016,Oil,18.5
+1,2016,Natural Gas,37.79
+1,2016,Renewables,36.05
+1,2017,Coal,8.9
+1,2017,Oil,1.78
+1,2017,Natural Gas,62.21
+1,2017,Renewables,27.11
+1,2018,Coal,2.45
+1,2018,Oil,46.62
+1,2018,Natural Gas,37.49
+1,2018,Renewables,13.45
+1,2019,Coal,47.89
+1,2019,Oil,27.25
+1,2019,Natural Gas,3.01
+1,2019,Renewables,21.85
+1,2020,Coal,63.88
+1,2020,Oil,0.18
+1,2020,Natural Gas,15.96
+1,2020,Renewables,19.98
+1,2021,Coal,18.59
+1,2021,Oil,60.87
+1,2021,Natural Gas,10.25
+1,2021,Renewables,10.28
+1,2022,Coal,47.84
+1,2022,Oil,21.53
+1,2022,Natural Gas,9.1
+1,2022,Renewables,21.54
+1,2023,Coal,9.62
+1,2023,Oil,12.29
+1,2023,Natural Gas,43.7
+1,2023,Renewables,34.39
+2,2015,Coal,51.51
+2,2015,Oil,9.41
+2,2015,Natural Gas,18.17
+2,2015,Renewables,20.92
+2,2016,Coal,0.29
+2,2016,Oil,23.97
+2,2016,Natural Gas,4.31
+2,2016,Renewables,71.43
+2,2017,Coal,2.46
+2,2017,Oil,8.17
+2,2017,Natural Gas,1.36
+2,2017,Renewables,88.01
+2,2018,Coal,22.81
+2,2018,Oil,29.59
+2,2018,Natural Gas,2.27
+2,2018,Renewables,45.33
+2,2019,Coal,7.96
+2,2019,Oil,77.14
+2,2019,Natural Gas,7.76
+2,2019,Renewables,7.15
+2,2020,Coal,2.36
+2,2020,Oil,40.53
+2,2020,Natural Gas,52.79
+2,2020,Renewables,4.31
+2,2021,Coal,43.66
+2,2021,Oil,17.64
+2,2021,Natural Gas,21.72
+2,2021,Renewables,16.98
+2,2022,Coal,30.09
+2,2022,Oil,48.19
+2,2022,Natural Gas,9.91
+2,2022,Renewables,11.8
+2,2023,Coal,34.82
+2,2023,Oil,51.4
+2,2023,Natural Gas,8.22
+2,2023,Renewables,5.56
+3,2015,Coal,58.89
+3,2015,Oil,29.96
+3,2015,Natural Gas,1.47
+3,2015,Renewables,9.68
+3,2016,Coal,48.17
+3,2016,Oil,41.17
+3,2016,Natural Gas,1.05
+3,2016,Renewables,9.61
+3,2017,Coal,17.44
+3,2017,Oil,73.95
+3,2017,Natural Gas,1.32
+3,2017,Renewables,7.29
+3,2018,Coal,51.32
+3,2018,Oil,6.27
+3,2018,Natural Gas,33.73
+3,2018,Renewables,8.68
+3,2019,Coal,2.91
+3,2019,Oil,7.74
+3,2019,Natural Gas,35.58
+3,2019,Renewables,53.77
+3,2020,Coal,49.1
+3,2020,Oil,14.01
+3,2020,Natural Gas,30.54
+3,2020,Renewables,6.35
+3,2021,Coal,12.77
+3,2021,Oil,83.45
+3,2021,Natural Gas,0.48
+3,2021,Renewables,3.29
+3,2022,Coal,17.46
+3,2022,Oil,2.01
+3,2022,Natural Gas,15.0
+3,2022,Renewables,65.53
+3,2023,Coal,11.17
+3,2023,Oil,45.57
+3,2023,Natural Gas,34.72
+3,2023,Renewables,8.54
+4,2015,Coal,15.15
+4,2015,Oil,24.09
+4,2015,Natural Gas,45.02
+4,2015,Renewables,15.74
+4,2016,Coal,33.96
+4,2016,Oil,18.28
+4,2016,Natural Gas,27.87
+4,2016,Renewables,19.89
+4,2017,Coal,7.11
+4,2017,Oil,60.43
+4,2017,Natural Gas,29.39
+4,2017,Renewables,3.08
+4,2018,Coal,30.95
+4,2018,Oil,10.2
+4,2018,Natural Gas,34.32
+4,2018,Renewables,24.54
+4,2019,Coal,33.17
+4,2019,Oil,1.36
+4,2019,Natural Gas,18.74
+4,2019,Renewables,46.73
+4,2020,Coal,30.85
+4,2020,Oil,9.17
+4,2020,Natural Gas,4.61
+4,2020,Renewables,55.37
+4,2021,Coal,76.87
+4,2021,Oil,13.78
+4,2021,Natural Gas,3.48
+4,2021,Renewables,5.87
+4,2022,Coal,0.54
+4,2022,Oil,71.01
+4,2022,Natural Gas,3.62
+4,2022,Renewables,24.83
+4,2023,Coal,8.1
+4,2023,Oil,20.44
+4,2023,Natural Gas,26.66
+4,2023,Renewables,44.79
+5,2015,Coal,8.59
+5,2015,Oil,0.41
+5,2015,Natural Gas,5.47
+5,2015,Renewables,85.53
+5,2016,Coal,41.48
+5,2016,Oil,18.23
+5,2016,Natural Gas,18.38
+5,2016,Renewables,21.91
+5,2017,Coal,5.24
+5,2017,Oil,66.86
+5,2017,Natural Gas,14.76
+5,2017,Renewables,13.14
+5,2018,Coal,31.8
+5,2018,Oil,2.09
+5,2018,Natural Gas,7.9
+5,2018,Renewables,58.21
+5,2019,Coal,4.84
+5,2019,Oil,51.77
+5,2019,Natural Gas,15.77
+5,2019,Renewables,27.62
+5,2020,Coal,14.18
+5,2020,Oil,18.3
+5,2020,Natural Gas,52.85
+5,2020,Renewables,14.68
+5,2021,Coal,15.67
+5,2021,Oil,12.12
+5,2021,Natural Gas,20.43
+5,2021,Renewables,51.78
+5,2022,Coal,69.54
+5,2022,Oil,12.76
+5,2022,Natural Gas,1.67
+5,2022,Renewables,16.04
+5,2023,Coal,35.44
+5,2023,Oil,2.07
+5,2023,Natural Gas,26.89
+5,2023,Renewables,35.61
+6,2015,Coal,19.64
+6,2015,Oil,71.15
+6,2015,Natural Gas,5.44
+6,2015,Renewables,3.77
+6,2016,Coal,34.98
+6,2016,Oil,18.37
+6,2016,Natural Gas,31.32
+6,2016,Renewables,15.33
+6,2017,Coal,5.91
+6,2017,Oil,35.73
+6,2017,Natural Gas,33.57
+6,2017,Renewables,24.79
+6,2018,Coal,18.11
+6,2018,Oil,50.87
+6,2018,Natural Gas,25.54
+6,2018,Renewables,5.48
+6,2019,Coal,40.01
+6,2019,Oil,2.36
+6,2019,Natural Gas,48.15
+6,2019,Renewables,9.48
+6,2020,Coal,4.69
+6,2020,Oil,17.88
+6,2020,Natural Gas,47.25
+6,2020,Renewables,30.18
+6,2021,Coal,28.38
+6,2021,Oil,18.58
+6,2021,Natural Gas,20.36
+6,2021,Renewables,32.68
+6,2022,Coal,5.12
+6,2022,Oil,11.99
+6,2022,Natural Gas,4.46
+6,2022,Renewables,78.42
+6,2023,Coal,42.78
+6,2023,Oil,0.6
+6,2023,Natural Gas,18.14
+6,2023,Renewables,38.48
+7,2015,Coal,5.62
+7,2015,Oil,23.68
+7,2015,Natural Gas,69.72
+7,2015,Renewables,0.97
+7,2016,Coal,15.58
+7,2016,Oil,4.6
+7,2016,Natural Gas,33.65
+7,2016,Renewables,46.17
+7,2017,Coal,39.16
+7,2017,Oil,8.72
+7,2017,Natural Gas,26.87
+7,2017,Renewables,25.25
+7,2018,Coal,12.42
+7,2018,Oil,57.05
+7,2018,Natural Gas,1.22
+7,2018,Renewables,29.31
+7,2019,Coal,15.73
+7,2019,Oil,7.73
+7,2019,Natural Gas,4.82
+7,2019,Renewables,71.72
+7,2020,Coal,19.3
+7,2020,Oil,59.96
+7,2020,Natural Gas,3.14
+7,2020,Renewables,17.6
+7,2021,Coal,20.92
+7,2021,Oil,42.2
+7,2021,Natural Gas,10.36
+7,2021,Renewables,26.53
+7,2022,Coal,63.53
+7,2022,Oil,27.99
+7,2022,Natural Gas,7.76
+7,2022,Renewables,0.72
+7,2023,Coal,41.72
+7,2023,Oil,0.44
+7,2023,Natural Gas,42.46
+7,2023,Renewables,15.39
+8,2015,Coal,25.4
+8,2015,Oil,14.56
+8,2015,Natural Gas,56.12
+8,2015,Renewables,3.92
+8,2016,Coal,40.34
+8,2016,Oil,14.23
+8,2016,Natural Gas,18.09
+8,2016,Renewables,27.33
+8,2017,Coal,25.19
+8,2017,Oil,50.42
+8,2017,Natural Gas,17.8
+8,2017,Renewables,6.59
+8,2018,Coal,24.05
+8,2018,Oil,58.81
+8,2018,Natural Gas,11.99
+8,2018,Renewables,5.15
+8,2019,Coal,31.41
+8,2019,Oil,24.29
+8,2019,Natural Gas,25.21
+8,2019,Renewables,19.09
+8,2020,Coal,0.86
+8,2020,Oil,0.36
+8,2020,Natural Gas,87.66
+8,2020,Renewables,11.12
+8,2021,Coal,9.97
+8,2021,Oil,23.4
+8,2021,Natural Gas,5.06
+8,2021,Renewables,61.57
+8,2022,Coal,35.97
+8,2022,Oil,2.18
+8,2022,Natural Gas,12.6
+8,2022,Renewables,49.25
+8,2023,Coal,62.15
+8,2023,Oil,13.52
+8,2023,Natural Gas,20.4
+8,2023,Renewables,3.92
+9,2015,Coal,53.13
+9,2015,Oil,2.96
+9,2015,Natural Gas,32.13
+9,2015,Renewables,11.78
+9,2016,Coal,44.33
+9,2016,Oil,34.05
+9,2016,Natural Gas,12.42
+9,2016,Renewables,9.2
+9,2017,Coal,10.38
+9,2017,Oil,8.6
+9,2017,Natural Gas,63.05
+9,2017,Renewables,17.97
+9,2018,Coal,0.72
+9,2018,Oil,41.81
+9,2018,Natural Gas,25.88
+9,2018,Renewables,31.6
+9,2019,Coal,71.4
+9,2019,Oil,2.58
+9,2019,Natural Gas,6.82
+9,2019,Renewables,19.2
+9,2020,Coal,36.04
+9,2020,Oil,5.06
+9,2020,Natural Gas,51.21
+9,2020,Renewables,7.69
+9,2021,Coal,9.08
+9,2021,Oil,27.6
+9,2021,Natural Gas,32.22
+9,2021,Renewables,31.1
+9,2022,Coal,3.63
+9,2022,Oil,79.44
+9,2022,Natural Gas,11.68
+9,2022,Renewables,5.25
+9,2023,Coal,24.53
+9,2023,Oil,34.81
+9,2023,Natural Gas,22.14
+9,2023,Renewables,18.52
+10,2015,Coal,42.92
+10,2015,Oil,32.26
+10,2015,Natural Gas,3.67
+10,2015,Renewables,21.16
+10,2016,Coal,17.04
+10,2016,Oil,10.99
+10,2016,Natural Gas,46.95
+10,2016,Renewables,25.02
+10,2017,Coal,5.41
+10,2017,Oil,15.92
+10,2017,Natural Gas,73.6
+10,2017,Renewables,5.07
+10,2018,Coal,46.01
+10,2018,Oil,16.5
+10,2018,Natural Gas,15.82
+10,2018,Renewables,21.67
+10,2019,Coal,42.1
+10,2019,Oil,10.33
+10,2019,Natural Gas,27.4
+10,2019,Renewables,20.17
+10,2020,Coal,6.1
+10,2020,Oil,41.43
+10,2020,Natural Gas,31.37
+10,2020,Renewables,21.1
+10,2021,Coal,27.29
+10,2021,Oil,28.99
+10,2021,Natural Gas,17.69
+10,2021,Renewables,26.04
+10,2022,Coal,25.46
+10,2022,Oil,24.27
+10,2022,Natural Gas,20.52
+10,2022,Renewables,29.75
+10,2023,Coal,3.94
+10,2023,Oil,48.53
+10,2023,Natural Gas,46.86
+10,2023,Renewables,0.68

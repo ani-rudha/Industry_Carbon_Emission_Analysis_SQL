@@ -1,0 +1,7 @@
+industry_id,industry_name,sector_type
+1,Energy Production,Energy
+2,Manufacturing,Industrial
+3,Transportation,Transport
+4,Agriculture,Agriculture
+5,Construction,Industrial
+6,Mining,Extractive
